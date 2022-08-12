@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-
-import 'app/quiz.dart';
-import 'consts.dart';
+import 'modules/quiz.dart';
+import 'shared/styles/colors.dart';
 
 void main() {
   runApp(const MyApp());
